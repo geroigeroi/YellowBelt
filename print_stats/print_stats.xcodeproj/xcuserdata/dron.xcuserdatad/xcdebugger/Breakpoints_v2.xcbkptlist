@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "DB3404FC-1538-4EB7-A911-13E2B608BD19"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "591F642B-5527-4195-A705-5B3D22314FD9"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "print_stats/main.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "61"
+            endingLineNumber = "61"
+            landmarkName = "PrintStats(persons)"
+            landmarkType = "9">
+            <Locations>
+               <Location
+                  uuid = "591F642B-5527-4195-A705-5B3D22314FD9 - a5827dc51289a56d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PrintStats(std::__1::vector&lt;Person, std::__1::allocator&lt;Person&gt; &gt;)"
+                  moduleName = "print_stats"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dron/Documents/Cpp/YellowBelt/print_stats/print_stats/main.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "61"
+                  endingLineNumber = "61"
+                  offsetFromSymbolStart = "389">
+               </Location>
+               <Location
+                  uuid = "591F642B-5527-4195-A705-5B3D22314FD9 - b8c1f89665189313"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PrintStats(std::__1::vector&lt;Person, std::__1::allocator&lt;Person&gt; &gt;)::$_0::operator()(Person) const"
+                  moduleName = "print_stats"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dron/Documents/Cpp/YellowBelt/print_stats/print_stats/main.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "61"
+                  endingLineNumber = "61"
+                  offsetFromSymbolStart = "33">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D95E2F5C-B54F-4158-AAB4-219DCBE919C7"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "print_stats/main.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "65"
+            endingLineNumber = "65"
+            landmarkName = "PrintStats(persons)"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
